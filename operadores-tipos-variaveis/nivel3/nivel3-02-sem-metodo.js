@@ -1,3 +1,8 @@
+//Implementar um programa capaz de:
+
+//Computar as raízes de uma equação do segundo grau
+
+//sem o método Math.sqrt() somente com raízes exatas
 a=1
 b=3
 c=0
@@ -17,7 +22,7 @@ if(delta<0){
     }
 }
 
-  //x1=-b+i/a*2
+  
    x1=(-b+raiz)/2*a
 
 x2=(-b-raiz)/2*a

@@ -17,9 +17,9 @@ delta=(b*b)-4*a*c;
 raizdelta=Math.sqrt(delta);
 
 
- x1=(-b+raiz)/2*a;
+ x1=(-b+raizdelta)/2*a;
 
-x2=(-b-raiz)/2*a;
+x2=(-b-raizdelta)/2*a;
 
 
 console.log('primeira raiz: ',x1,'segunda raiz: ',x2);

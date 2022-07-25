@@ -8,4 +8,4 @@ Web 1.
 
 
 
-Linguagens Usadas: Javascript e MySQL
+Linguagens Usadas: Javascript e MySQL e PHP

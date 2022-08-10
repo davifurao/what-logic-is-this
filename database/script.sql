@@ -1,3 +1,6 @@
+create table wlogic;
+use wlogic;
+
 create table usuario(
 nome_usuario varchar(255) not null,
 senha_usuario varchar(255) not null,
